@@ -22,5 +22,6 @@ TODO:
 
 * add validation from mvc template;
 * test on real site.
+* clean up bootstrap and jquery files.
 
 
